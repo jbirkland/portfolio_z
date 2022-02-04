@@ -1259,8 +1259,9 @@ ul#menu li a{
   margin-bottom: 0;
 }
 #success, #error {
-  display: none;
-  line-height: 34px
+  display:none;
+  line-height: 34px;
+  color: #31bb15;
 }
 #success {
   color: #31bb15
