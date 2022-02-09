@@ -1223,6 +1223,10 @@ ul#menu li a{
   font-weight: 600;
   letter-spacing: 1px;
 }
+.ctTitle{
+  text-decoration: underline;
+  color: #f3e45f !important;
+}
 .form-control{
   padding: 5px 15px;
   font-size: 14px;
